@@ -11,6 +11,8 @@ hobby = input("¿Cuál es tu pasatiempo favorito?: ")
 sueño = input("¿Cuál es tu mayor sueño?: ")
 mascotas = input("¿Tienes mascotas, como se llaman?: ")
 mejor_amigo = input("¿Como se llama tu mejor amigo?: ")
+sueño_pequeño = input("¿Que querias ser de pequeño?: ")
+escuela_primaria = input("¿A que Escuela primaria fuiste?: ")
 
 
 
@@ -20,3 +22,9 @@ print(f"Actualmente se dedica a {ocupacion}.")
 print(f"En su tiempo libre le gusta {hobby}.")
 print(f"Su mayor sueño es {sueño}.")
 print(f"Esta es solo una parte de la historia de {nombre}, que apenas comienza.")
+
+print(f"Cuando era pequeño soñaba con ser {sueño_pequeño}")
+print(f"Se imaginaba que era {sueño_pequeño} y eso lo hacía muy feliz.")
+print(f"Junto a su mejor amigo {mejor_amigo} pasaban horas jugando que eran {sueño_pequeño}")
+print(f"A medida que pasaron los años, cuando se encontraba en la escuela {escuela_primaria},")
+print(f"Se dio cuenta de que su verdadera vocación era ser {sueño} y eso lo cambió todo. ")
