@@ -13,6 +13,10 @@ mascotas = input("¿Tienes mascotas, como se llaman?: ")
 mejor_amigo = input("¿Como se llama tu mejor amigo?: ")
 sueño_pequeño = input("¿Que querias ser de pequeño?: ")
 escuela_primaria = input("¿A que Escuela primaria fuiste?: ")
+lugar_de_nacimiento = input("¿en que pais nacistes? " )
+estado = input("¿eres solter@ o casad@?")
+comida_favorita = input("¿cual es tu comida favorita?")
+
 
 
 
