@@ -34,6 +34,7 @@ print(f"A medida que pasaron los años, cuando se encontraba en la escuela {escu
 print(f"Se dio cuenta de que su verdadera vocación era ser {sueño} y eso lo cambió todo. ")
 
 
+
 # Aporte al desarrollo de la historia
 color_favorito = input("¿Cuál es tu color favorito?: ")
 musica_favorita = input("¿Qué tipo de música te gusta escuchar?: ")
