@@ -1,4 +1,10 @@
 # Github-Estructura--Lineal-Simple
+Gian Pitti
+Said Guardia
+Adriana Cervera
+Jerry Rivera
+David Pilo
+María Cedeño
 
 
 Esta obra es un relato interactivo de autoficción que utiliza la programación como vehículo para la introspección personal. A través de cuatro actos desde la infancia en la escuela primaria hasta las proyecciones hacia el futuro, el usuario construye una crónica de su propia identidad, contrastando los sueños infantiles de lo que quería ser con la realidad de su ocupación y estudios actuales. 
